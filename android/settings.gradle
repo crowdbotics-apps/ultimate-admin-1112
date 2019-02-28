@@ -1,0 +1,3 @@
+rootProject.name = 'ultimate_admin_1112'
+
+include ':app'
